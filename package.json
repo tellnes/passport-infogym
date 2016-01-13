@@ -1,0 +1,31 @@
+{
+  "name": "passport-infogym",
+  "version": "0.0.0",
+  "description": "InfoGym authentication strategy for Passport.",
+  "keywords": [
+    "passport",
+    "infogym",
+    "auth",
+    "authn",
+    "authentication",
+    "identity"
+  ],
+  "author": "Christian Tellnes <christian@tellnes.no> (http://christian.tellnes.com)",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tellnes/passport-infogym.git"
+  },
+  "bugs": {
+    "url": "http://github.com/tellnes/passport-infogym/issues"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "inherits": "^2.0.1",
+    "passport-oauth2": "^1.1.2"
+  },
+  "homepage": "https://github.com/tellnes/passport-infogym#readme",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
